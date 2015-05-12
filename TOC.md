@@ -1,5 +1,4 @@
  - Spring Core Basics
-   - [Spring - 主页](index.md)
    - [Spring - 概述](spring_overview.md)
    - [Spring - 体系结构](spring_architecture.md)
    - [Spring - 环境配置](spring_environment_setup.md)
